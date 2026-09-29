@@ -1,0 +1,17 @@
+========================================
+         PUNTO DE VENTA - TECNOLOGIA
+========================================
+Folio de Venta : FAC-9795
+Fecha y Hora   : 2026-09-28 23:33:28
+Usuario Venta  : Jesus Corzo
+Cliente        : Alan
+----------------------------------------
+PRODUCTO       : Monitor Curvo 24 pulgadas
+Precio Unitario: $3,800.00
+Cantidad       : 2
+----------------------------------------
+Subtotal       : $7,600.00
+IVA (16%)      : $1,216.00
+TOTAL A PAGAR  : $8,816.00
+========================================
+Gracias por su preferencia!
